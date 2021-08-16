@@ -113,7 +113,7 @@ h2 {
 .cover-img {
   background: url('../assets/images/coverbg.jpg') no-repeat;
   background-size: cover;
-  background-position-y: center;
+  background-position: center;
   height: 60vh;
 }
 
