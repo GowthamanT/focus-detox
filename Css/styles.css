@@ -136,6 +136,7 @@ h2 {
   font-size: 60px;
   text-align: center;
   padding-top: 60px;
+  line-height: initial;
 }
 
 .article-content {
